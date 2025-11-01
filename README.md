@@ -12,9 +12,9 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
+My project is live at:
 
-**[https://vercel.com/prajwalroxss007-7553s-projects/v0-portfolio-website-build](https://vercel.com/prajwalroxss007-7553s-projects/v0-portfolio-website-build)**
+**[https://prajwal-srivastava-portweb.vercel.app/](https://prajwal-srivastava-portweb.vercel.app/)**
 
 ## Build your app
 
