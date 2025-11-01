@@ -9,7 +9,7 @@ export default function Footer() {
   const [isPlaying, setIsPlaying] = useState(false)
 
   const socialLinks = [
-    { name: "Instagram", url: "https://instagram.com" },
+    { name: "Instagram", url: "https://www.instagram.com/__prajj.is.me/" },
     { name: "LinkedIn", url: "https://www.linkedin.com/in/prajwal-srivastava-363575361" },
     { name: "LeetCode", url: "https://leetcode.com/u/Prajwal_07x/" },
     { name: "GitHub", url: "https://github.com/prajwalroxxs" },
@@ -50,7 +50,7 @@ export default function Footer() {
                 href="mailto:hello@prajwal.com"
                 className="text-white font-semibold text-base sm:text-xl md:text-2xl hover:text-purple-400 transition-colors break-words"
               >
-                hello@prajwal.com
+                hello@prajwal.web
               </a>
             </motion.div>
             <motion.div className="text-white/60 font-normal text-sm sm:text-base md:text-lg">
