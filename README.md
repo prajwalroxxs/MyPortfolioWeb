@@ -42,3 +42,7 @@ React, Vite, Tailwind CSS, Framer Motion, HTML5, CSS3, JavaScript (ES6+), Vercel
 
 
 ---
+
+## Deployed On
+
+-> https://github.com/prajwalroxxs/MyPortfolioWeb
